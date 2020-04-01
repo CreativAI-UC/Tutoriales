@@ -45,8 +45,6 @@ for device in gpu_devices:
     tf.config.experimental.set_memory_growth(device, True)
     ```
 
-##Ejemplo básico
-Primero debemos importar la librería. Le pondremos nombre tf. 
-```python
-import tensorflow as tf
-```
+##Ejemplo básicos
+*[GAN](https://github.com/CreativAI-UC/Tutoriales/blob/master/Gan.ipynb)
+*[Red clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/ejemplo_red_clasificadora.ipynb)
