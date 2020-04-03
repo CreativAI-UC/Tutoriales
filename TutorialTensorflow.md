@@ -1,9 +1,9 @@
-#TensorFlow
+# TensorFlow
 TensorFlow es una librería open source de google que permite crear applicaciónes de machine learning. En este tutorial se mostrará una introducción a la librería y lgunos ejemplos de uso.
 
 Es importante que para hacer uso de [tensorflow_gpu](https://www.tensorflow.org/install/gpu) se necesita instalar [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) y [cuDNN](https://developer.nvidia.com/cudnn), en caso contrario tf seguira utilizando la cpu del equipo para crear y correr los modelos y redes.
 
-##Documentación
+## Documentación
 TensorFlow tiene APIs para muchos lenguajes de programación, pero cabe mencionar que la API mas completa y con mayor estabilidad y facilidad de uso es la de python. 
 
 
@@ -20,7 +20,7 @@ Para checkear que version esta siendo utilizada:
 import tensorflow as tf
 tf.version()
 ```
-##Errores
+## Errores
 Un error común que suele aparecer al usar tensorflow_gpu, es que no se detecta la gpu del equipo.
 Para esto uno debe desinstalar por completo TensorFlow y reinstalar TensorFlow_gpu:
 ```
@@ -45,6 +45,6 @@ for device in gpu_devices:
     tf.config.experimental.set_memory_growth(device, True)
     ```
 
-##Ejemplo básicos
+## Ejemplo básicos
 *[GAN](https://github.com/CreativAI-UC/Tutoriales/blob/master/Gan.ipynb)
 *[Red clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/ejemplo_red_clasificadora.ipynb)
