@@ -43,8 +43,9 @@ Para multiples GPUs
 gpu_devices = tf.config.experimental.list_physical_devices('GPU')
 for device in gpu_devices:
     tf.config.experimental.set_memory_growth(device, True)
-    ```
+```
 
 ## Ejemplo básicos
-*[GAN](https://github.com/CreativAI-UC/Tutoriales/blob/master/Gan.ipynb)
 *[Red clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/ejemplo_red_clasificadora.ipynb)
+
+*[GAN](https://github.com/CreativAI-UC/Tutoriales/blob/master/Gan.ipynb)
