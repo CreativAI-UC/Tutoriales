@@ -12,7 +12,10 @@ Tutoriales para la creacion de redes y manejo de archivos en formato de audio o 
 **Pip 19 o mayor:** actualiza con el comando  
 *python -m pip install --upgrade pip*
 
-**[Tensorflow](https://github.com/CreativAI-UC/Tutoriales/blob/master/TutorialTensorflow.md)**      
+**[Tensorflow](https://github.com/CreativAI-UC/Tutoriales/blob/master/TutorialTensorflow.md)**  
+
+**[Pytorch](https://github.com/CreativAI-UC/Tutoriales/blob/master/TutorialPytorch.md)**
+
 **[Pypianoroll](https://salu133445.github.io/pypianoroll/)**
 instala con el comando:
 *pip install pypianoroll*  
