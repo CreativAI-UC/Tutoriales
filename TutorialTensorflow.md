@@ -48,4 +48,4 @@ for device in gpu_devices:
 ## Ejemplo básicos
 *[Red clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/ejemplo_red_clasificadora.ipynb)
 
-*[GAN](https://github.com/CreativAI-UC/Tutoriales/blob/master/Gan.ipynb)
+*[DCGAN](https://github.com/CreativAI-UC/Tutoriales/blob/master/DCGAN.ipynb)
