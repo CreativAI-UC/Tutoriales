@@ -13,6 +13,7 @@ Pytorch tiene la gracia de ser completamente **_Pythonica_**, por lo que es comp
 
 Pytorch es facil de usar. No suele tirar errores asociados al packete en si, y no tiene notables conflictos entre versiones (:angry: TensorFlow :angry:). Es incluso facil de instalar y esta bien explicado en la documentacion. Es un poco limitado con versiones de python superiores a 3.8.
 
+
 ## Documentación
 Pytorch esta compuesto por seis sublibrerias:
 
@@ -30,3 +31,7 @@ Pytorch esta compuesto por seis sublibrerias:
 
 Una lista completa de la documentación se puede encontrar [aquí](https://pytorch.org/docs/stable/index.html).
 
+
+## Ejemplo
+
+Pytorch tiene un procesador de audio integrado, [torchaudio](https://pytorch.org/tutorials/beginner/audio_preprocessing_tutorial.html). Usaremos este procesador para entrenar una red basada en audio.
