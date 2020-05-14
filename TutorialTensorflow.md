@@ -1,10 +1,10 @@
 # TensorFlow
-TensorFlow es una librería open sorce de Google que permite crear applicaciones de machine learning. En este tutorial se mostrará una introducción a la librería y algunos ejemplos de uso.
+TensorFlow es una librería open source de Google que permite crear applicaciones de machine learning. En este tutorial se mostrará una introducción a la librería y algunos ejemplos de uso.
 
 Es importante que para hacer uso de [tensorflow_gpu](https://www.tensorflow.org/install/gpu) se necesita instalar [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) y [cuDNN](https://developer.nvidia.com/cudnn), en caso contrario tf seguirá utilizando la CPU del equipo para crear y correr los modelos y redes.
 
 ## Documentación
-TensorFlow tiene APIs para muchos lenguajes de programación, pero cabe mencionar que la API mas completa y con mayor estabilidad y facilidad de uso es la de Python. 
+TensorFlow tiene APIs para muchos lenguajes de programación, pero cabe mencionar que la API más completa y con mayor estabilidad y facilidad de uso es la de Python. 
 
 
 Una lista completa de la documentación se puede encontrar [aquí](https://www.tensorflow.org/api_docs/python/).
