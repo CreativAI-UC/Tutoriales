@@ -8,9 +8,7 @@ Tutoriales para la creacion de redes neurales y manejo de archivos en formato de
 
 **Pip 19 o mayor:** actualiza con el comando  
 *python -m pip install --upgrade pip*
-**[Pypianoroll](https://salu133445.github.io/pypianoroll/)**
-instala con el comando:
-*pip install pypianoroll*  
+`pip install -r requirements.txt`
 
 **[Introducción a Tensorflow](https://github.com/CreativAI-UC/Tutoriales/blob/master/TutorialTensorflow.md)**  
 
