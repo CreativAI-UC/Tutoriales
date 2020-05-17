@@ -31,7 +31,7 @@ parso==0.6.2
 pbr==5.4.5
 pexpect==4.2.1
 pickleshare==0.7.5
-Pillow==5.1.0
+Pillow>=6.2.2
 pip==20.1
 pretty-midi==0.2.8
 protobuf==3.11.3
