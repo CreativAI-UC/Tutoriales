@@ -35,7 +35,7 @@ Pillow==5.1.0
 pip==20.1
 pretty-midi==0.2.8
 protobuf==3.11.3
-psutil==5.4.2
+psutil==5.6.6
 pypianoroll
 pytools==2020.1
 pytz==2018.3
