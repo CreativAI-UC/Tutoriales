@@ -27,7 +27,7 @@ numba==0.49.1
 numpy
 pandas
 pandocfilters
-parso
+parso == 0.7.0
 pbr==5.4.5
 pexpect==4.2.1
 pickleshare==0.7.5
