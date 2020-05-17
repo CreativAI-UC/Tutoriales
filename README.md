@@ -10,7 +10,9 @@ Tutoriales para la creacion de redes neurales y manejo de archivos en formato de
 *python -m pip install --upgrade pip*
 
 
-Para instalar los packetes de python requeridos:
+Para instalar los packetes de python requeridos corre el siguiente script dentro de un virtual enviornment:
+
+
 `pip install -r requirements.txt`
 
 **[Introducción a Tensorflow](https://github.com/CreativAI-UC/Tutoriales/blob/master/TutorialTensorflow.md)**  
