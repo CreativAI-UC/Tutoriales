@@ -8,6 +8,9 @@ Tutoriales para la creacion de redes neurales y manejo de archivos en formato de
 
 **Pip 19 o mayor:** actualiza con el comando  
 *python -m pip install --upgrade pip*
+
+
+Para instalar los packetes de python requeridos:
 `pip install -r requirements.txt`
 
 **[Introducción a Tensorflow](https://github.com/CreativAI-UC/Tutoriales/blob/master/TutorialTensorflow.md)**  
