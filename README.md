@@ -21,7 +21,8 @@ Para instalar los packetes de python requeridos corre el siguiente script dentro
 
 ## 	Jupyter Notebooks
 
-### Redes neuronales usando TensorFlow e Imágenes
+### Redes neuronales usando TensorFlow e Imágenes:
+___
 
 **[DNN Clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/1_1_dnn_tf_imagenes.ipynb)**
 
@@ -29,7 +30,8 @@ Para instalar los packetes de python requeridos corre el siguiente script dentro
 
 **VAE (WIP)**
 
-### Redes neuronales usando Tensorflow y datos musicales
+### Redes neuronales usando Tensorflow y datos musicales:
+___
 
 ## 	MANEJO DE ARCHIVOS MIDI y AUDIO
 
