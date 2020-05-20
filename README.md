@@ -30,6 +30,10 @@ Para instalar los packetes de python requeridos corre el siguiente script dentro
 **VAE (WIP)**
 ___
 ### Redes neuronales usando Tensorflow y datos musicales:
+___
+### Redes neuronales usando Pytorch e Imagenes:
+___
+### Redes neuronales usando Pytorch y datos musicales:
 
 
 ## 	MANEJO DE ARCHIVOS MIDI y AUDIO
