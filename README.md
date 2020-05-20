@@ -21,7 +21,6 @@ Para instalar los packetes de python requeridos corre el siguiente script dentro
 
 ## 	Jupyter Notebooks
 
-___
 ### Redes neuronales usando TensorFlow e Imágenes:
 
 **[DNN Clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/1_1_dnn_tf_imagenes.ipynb)**
