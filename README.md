@@ -30,6 +30,9 @@ Para instalar los packetes de python requeridos corre el siguiente script dentro
 **VAE (WIP)**
 ___
 ### Redes neuronales usando Tensorflow y datos musicales:
+**[DCNN Clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/2_1_dcnn_tf_audio.ipynb)**
+
+**[WGAN](https://github.com/CreativAI-UC/Tutoriales/blob/master/2_2_wgan_tf_audio_WIP.ipynb)(WIP)**
 ___
 ### Redes neuronales usando Pytorch e Imagenes:
 ___
@@ -49,6 +52,9 @@ ___
 
 
 **[Freesound](https://annotator.freesound.org/fsd/explore/)** : Plataforma para crear y explorar grandes cantidades de samples de audio clasificadas segun caracteristicas musicales(instrumento/estilo).
+
+**[Freesound](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)** : Coleccion de 1000 archivos .wav, clasificados en 10 géneros musicales.
+
 
 
 
