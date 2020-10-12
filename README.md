@@ -23,7 +23,7 @@ Para instalar los packetes de python requeridos corre el siguiente script dentro
 
 ### Manejo de audio con Python y creación de Datasets:
 **[Manejo de audio con librosa y preprocesamiento](https://github.com/CreativAI-UC/Tutoriales/blob/master/tutorial_manejo_audio.ipynb)**
-
+___
 ### DNNs usando TensorFlow e Imágenes:
 
 **[DNN Clasificadora](https://github.com/CreativAI-UC/Tutoriales/blob/master/1_1_dnn_tf_imagenes.ipynb)**
