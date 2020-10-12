@@ -21,7 +21,7 @@ Para instalar los packetes de python requeridos corre el siguiente script dentro
 
 ## 	Jupyter Notebooks
 
-### Manejo de audio con Python y creación de Datasets
+### Manejo de audio con Python y creación de Datasets:
 **[Manejo de audio (librosa) y preprocesamiento](https://github.com/CreativAI-UC/Tutoriales/blob/master/tutorial_manejo_audio.ipynb)
 
 ### DNNs usando TensorFlow e Imágenes:
