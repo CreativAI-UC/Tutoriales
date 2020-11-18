@@ -22,7 +22,7 @@ MIDIUtil==1.2.1
 mido==1.2.6
 mistune==0.8.4
 mock==2.0.0
-notebook==6.0.3
+notebook==6.1.5
 numba==0.49.1
 numpy
 pandas
