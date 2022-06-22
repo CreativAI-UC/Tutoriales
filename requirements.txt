@@ -23,7 +23,7 @@ mistune
 mock
 notebook
 numba
-numpy==1.16.0
+numpy==1.22.0
 pandas
 pretty-midi==0.2.8
 protobuf==3.9.2
